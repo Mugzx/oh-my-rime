@@ -16,11 +16,6 @@ install_files: >-
   ibus_rime.yaml
   rime_mint*.yaml
   double_pinyin*.schema.yaml
-  t9.schema.yaml
-  terra*.yaml
-  stroke*.yaml
-  wubi86*.yaml
-  wubi98*.yaml
   symbols.yaml
   radical*.yaml
   melt_eng*.yaml

@@ -24,7 +24,7 @@ local function modify_preedit_filter(input, env)
 
     local seg = context.composition:back()
     env.is_special_tag_mode = seg and (
-        seg:has_tag("radical_lookup") or seg:has_tag("reverse_stroke") or seg:has_tag("correntor")
+        seg:has_tag("radical_lookup") or seg:has_tag("correntor")
     ) or false
 
     for cand in input:iter() do
