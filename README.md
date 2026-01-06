@@ -1,9 +1,5 @@
 ![样式](./demo.webp)
 
-- [中文 - 简体简介](README.md)
-- [中文 - 繁體簡介](README_zh-CHT.md)
-- [English - Brief](README_en.md)
-
 一套快速初始化rime的模板方案，因为平时我使用`oh-my-zsh`，希望大家在用这个模板的时候，有种用`omz`的感觉；所以我给它取名叫`oh-my-rime`，你也可以叫它`薄荷输入法`，亦或者`Mint Input`。
 
 如果你下载遇到困难，使用GitHub Action推送的镜像仓库：
